@@ -1,7 +1,7 @@
 # Python_Study
 ![Python Logo](https://i.namu.wiki/i/pHxeJONxIv51qQsN2ac5nX3shPEmiSlKtGVATZXUE22NHGyw9v7_Aqto6aSoCU9ODz3RKtTKCEP0E0OI7TlxMQ.webp)
 
-## 파이썬 정리 1일차
+## 파이썬 복습 1회차
 ### Python 이란?
 Python은 1991년 Guido van Rossum에 의해 개발된 프로그래밍 언어입니다. Python의 이름은 'Monty Python's Flying Circus'에서 착안했습니다.
 
